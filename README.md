@@ -1,2 +1,2 @@
 # utilizando_bootstrap
-Aplicando boostrap no projeto
+Aplicando booststrap no projeto
