@@ -1,0 +1,67 @@
+body {
+    background-color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.navbar {
+    background-color: white;
+    margin-left: 50px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    margin-right: 35px;
+}
+.quem-somos {
+    background-color: #66b0b3;
+    padding: 100px;
+    flex-direction: row;
+}
+.quem-somos img{
+    border-radius: 50%;
+
+}
+
+.servicos {
+    background-color: #e7aeb7;
+    padding: 100px;
+}
+ .servicos h2 {
+     padding-bottom: 50px;
+ }
+.margin {
+    padding-top: 50px;
+}
+.col-lg-3 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.col-lg-3 h4{
+    padding-top: 30px;
+}
+.barra {
+    background-color: white;
+    text-align: center;
+}
+
+#contato {
+    background-color:#66b0b3 ;
+}
+
+.texto h2 {
+    padding-top: 50px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.italico {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-style: italic;
+}
+
+.alinhar {
+    padding-left: 10px;
+}
+
+footer {
+    height: 30px;
+    font-size: 10px;
+}
